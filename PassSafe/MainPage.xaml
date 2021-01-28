@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PassSafe.MainPage">
+
+    <StackLayout Orientation="Vertical" >
+        <Frame BackgroundColor="#262626" Padding="15" CornerRadius="0">
+            <Label Text="Pass Safe" HorizontalTextAlignment="Center" TextColor="White" FontSize="25"/>
+        </Frame>
+        <ScrollView>
+        <TableView>
+            <TableSection>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>
+                    <ViewCell>
+                        <Label Text="ITEM 1"></Label>
+                    </ViewCell>  
+                </TableSection>
+        </TableView>
+        </ScrollView>
+
+        <Button Text="Adicionar Nova Senha" BackgroundColor="#262626" Padding="10" TextColor="White" VerticalOptions="EndAndExpand"></Button>
+      
+    </StackLayout>
+
+    
+</ContentPage>
